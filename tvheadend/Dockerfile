@@ -49,7 +49,7 @@ LABEL \
     org.opencontainers.image.vendor="GauthamVarmaK" \
     org.opencontainers.image.authors="Gautham Varma K <43441192+GauthamVarmaK@users.noreply.github.com>" \
     org.opencontainers.image.licenses="MIT" \
-    org.opencontainers.image.url="https://github.com/GauthamVarmaK/addon-tvheadend" \
+    org.opencontainers.image.url="https://github.com/kodzintm/addon-tvheadend" \
     org.opencontainers.image.source="https://github.com/${BUILD_REPOSITORY}" \
     org.opencontainers.image.documentation="https://github.com/${BUILD_REPOSITORY}/blob/main/README.md" \
     org.opencontainers.image.created=${BUILD_DATE} \
